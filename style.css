@@ -160,7 +160,8 @@ h6 {
 }
 #email2 {
  width: 350px;
- height: 30px;
+ height: 35px;
+ margin-bottom: 20px;
 }
 .footer {
   display: flex;
