@@ -89,7 +89,7 @@ button {
 }
 .top-img {
   position: absolute;
-  top: 450px;
+  top: -70px;
   width: 100%;
   right: 1px;
 }
@@ -275,7 +275,7 @@ h6 {
   }
   .top-img {
     position: absolute;
-    top: 750px;
+    top: -50px;
   }
   
    h1 {
